@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class GameVariable : MonoBehaviour {
 
+    private float movement;
+
 	// Use this for initialization
 	void Start () {
 		
