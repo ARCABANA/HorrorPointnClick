@@ -5,6 +5,7 @@ using UnityEngine;
 public static class GameVariable{
 
      private static float movement;
+    private static int index;
 
 	
 }
